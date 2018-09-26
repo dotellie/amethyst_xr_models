@@ -1,0 +1,7 @@
+[package]
+name = "amethyst_xr_models"
+version = "0.1.0"
+authors = ["Ellie <hi@ellie.moe>"]
+
+[dependencies]
+amethyst = { path = "../amethyst", version = "0.8.0" }
